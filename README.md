@@ -1,6 +1,6 @@
 <p align="center">
 <a href="#ziunadev">
-      <img width="100%" src="https://github.com/ziunadev/ziunadev/blob/assets/github-3.jpg">
+      <img width="100%" src="https://github.com/ziunadev/ziunadev/blob/assets/cover.jpg">
       </a>
 </p>
 
