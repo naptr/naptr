@@ -4,6 +4,11 @@
       </a>
 </p>
 
+<details>
+      <summary>Github Stats</summary>
+      <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ziunadev&show_icons=true&hide_border=true" />
+</details>
+
 <!--
 **ziunadev/ziunadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Hi, it's me Putra!
