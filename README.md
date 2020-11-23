@@ -5,8 +5,8 @@
 </p>
 
 <details>
-      <summary align="right">Stats on Github</summary>
-      <img align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ziunadev&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" />
+      <summary>Stats on Github</summary>
+      <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ziunadev&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" />
 </details>
 
 <!--
