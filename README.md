@@ -5,14 +5,16 @@
 </p>
 
 <details>
-<summary>Stats on Github</summary>
+      <summary>Stats on Github</summary>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ziunadev&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" />
+                  <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ziunadev&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" />
                   </a>
-<summary>Most used Language</summary>
+</details>
+<details>
+      <summary>Most used Language</summary>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" alt="Most used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziunadev&layout=compact" />
-      </a>
+                  <img align="center" alt="Most used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziunadev&layout=compact" />
+                  </a>
 </details>
 
 <!--
@@ -22,7 +24,7 @@
 
 Here are some ideas to get you started:
 - 📫 How to reach me: ...
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...<summary>Stats on Github</summary>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
