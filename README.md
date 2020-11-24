@@ -5,13 +5,13 @@
 </p>
 
 <details>
+<summary>Stats on Github</summary>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-            <summary>Stats on Github</summary>
-                  <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ziunadev&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" />
+            <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ziunadev&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" />
                   </a>
+<summary>Most used Language</summary>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-            <summary>Most used Language</summary>
-                  <img align="center" alt="Most used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziunadev&layout=compact" />
+            <img align="center" alt="Most used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziunadev&layout=compact" />
       </a>
 </details>
 
