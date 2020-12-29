@@ -4,7 +4,7 @@
       </a>
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ziunadev&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" />
+      <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ziunadev&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziunadev/>
