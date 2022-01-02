@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naptr&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-	<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?naptr=ziunadev&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" />
+	<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=naptr&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" />
 </a>
 
 <!--
